@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TAJUDEEN ABDULAZEEZ</h1>
-<h3 align="center">I am a Neuroscientist turned Web developer. I have worked as a Research Scientist and Data Analyst before finding my lost rib in Software Engineering. Now i write code that speak about my background.</h3>
+<h3 align="center">Tajudeen Abdulazeez is a goal getter software engineer that is professionally certified in advance code design, development, architecture, debugging, testing and scaling to production. I love to integrate RESTful API, break down complex technical communication, collaborate with different non-technical teams and play games I developed. I have built applications with git, AWS, POSTGRESSQL, mongodb, jest, jasmine, linux, R, python, MS-project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajudeenazeez&label=Profile%20views&color=0e75b6&style=flat" alt="tajudeenazeez" /> </p>
 
