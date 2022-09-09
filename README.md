@@ -5,21 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajudeenazeez" alt="tajudeenazeez" /></a> </p>
 
-- 🔭 I’m currently working on [FARMBEST --backend](https://farmbest-backend.herokuapp.com/)
+- 🔭 I’m currently working on [Multicolored calculator]( https://multicolored-calculator.netlify.app/)
 
 - 🌱 I’m currently learning **nodejs**
 
-- 👯 I’m looking to collaborate on [hospital-run](https://github.com/HospitalRun/components)
-
 - 🤝 I’m looking for help with [docker](https://github.com/docker/docker.github.io)
 
-- 👨‍💻 All of my projects are available at [https://gitconnected.com/tajudeenazeez/resume](https://gitconnected.com/tajudeenazeez/resume)
-
-- 💬 Ask me about **react, redux, sql**
-
-- 📫 How to reach me **tajudeenomotayo3@gmail.com**
+- 💬 Ask me about **react, redux, and Tailwind**
 
 - 📄 Know about my experiences [https://gitconnected.com/tajudeenazeez/resume](https://gitconnected.com/tajudeenazeez/resume)
+
+- 📫 How to reach me **tajudeenomotayo3@gmail.com**
 
 - ⚡ Fun fact **I went to a Medical School but i am always address as a statistician, IT-man cos that's what i do most**
 
